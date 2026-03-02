@@ -50,6 +50,10 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+    "node": "18.x",
+    "yarn": "1.22.19"
+  },
   "devDependencies": {
     "@types/react-animate-on-scroll": "^2.1.5",
     "@types/react-google-recaptcha": "^2.1.2",
