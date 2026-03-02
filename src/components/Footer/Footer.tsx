@@ -6,7 +6,7 @@ import whatsapp from '../../assets/whatsapp.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://savanrathod.in" className="logo">
+      <a href="https://portfolio-tgjl.vercel.app/" className="logo">
         <span>www.savan</span>
         <span>rathod.in</span>
       </a>
