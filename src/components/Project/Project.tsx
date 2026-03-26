@@ -25,16 +25,17 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Multilingual VQA Vision-Language Model</h3>
+              <h3>Food Ordering System</h3>
               <p>
-                Fine-tuned Qwen2.5-VL for visual question answering across 14 languages with optimized preprocessing.
+                Comprehensive admin and restaurant owner panels with intuitive dashboards for managing orders, menus, deliveries, and sales analytics. Built user-facing application and restaurant APIs with RESTful architecture.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Python</li>
-                <li>Qwen2.5-VL</li>
-                <li>Unsloth</li>
+                <li>Laravel</li>
+                <li>MySQL</li>
+                <li>REST API</li>
+                <li>jQuery</li>
               </ul>
             </footer>
           </div>
@@ -53,10 +54,16 @@ export function Project() {
                 </div>
             </header>
             <div className="body">
-              <h3>Serverless Voting Application for Programming Languages</h3>
-              <p> Developed a serverless voting app using React, AWS Lambda, API Gateway, and DynamoDB, enabling users to view programming languages, cast votes, and access details through an interactive UI, leveraging serverless architecture for scalability and cost-efficiency. </p>
+              <h3>E-Commerce & Admin Panel</h3>
+              <p> Full e-commerce platform supporting multiple payment options including USPS money orders and Bitcoin. Integrated secure payment gateways with optimized transaction handling. </p>
             </div>
-            <footer> <ul className="tech-list"> <li>AWS Lambda</li> <li>API Gateway</li> <li>DynamoDB</li> </ul> </footer>
+            <footer> 
+              <ul className="tech-list"> 
+                <li>Laravel</li> 
+                <li>MySQL</li> 
+                <li>Bitcoin</li>
+              </ul> 
+              </footer>
           </div>
         </ScrollAnimation>
 
@@ -72,16 +79,17 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
+              <h3>CRM for Multiple Rehab Centers</h3>
               <p>
-                Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
+                Custom CRM system managing patient records, scheduling, and communications across multiple rehab centers. Implemented role-based access control and detailed reporting analytics.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Streamlit</li>
-                <li>PyPDF2</li>
-                <li>LangChain</li>
+                <li>Laravel</li> 
+                <li>MySQL</li> 
+                <li>RBAC</li> 
+                <li>Analytics</li> 
               </ul>
             </footer>
           </div>
@@ -102,13 +110,13 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>MediBook: Medical Appointment Scheduler with Health History</h3>
-              <p>Developed a secure medical appointment management platform with CRUD functionality, utilizing role-based access control, encryption techniques, and a robust MySQL database with normalized schema design and stored procedures for efficient scheduling, data privacy, and reliable retrieval of patient records.</p>
+              <h3>Educational Web Platform</h3>
+              <p>Robust education platform with seamless content management and user engagement. Integrated role-based access control and secure authentication for sensitive educational content.</p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>PHP</li>
-                <li>HTML</li>
+                <li>Laravel</li>
+                <li>Vue.js</li>
                 <li>CSS</li>
                 <li>MySQL</li>
               </ul>
